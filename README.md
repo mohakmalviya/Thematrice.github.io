@@ -1,2 +1,2 @@
-# matrices.github.io
+# matrices
 hello....welcome to our website
